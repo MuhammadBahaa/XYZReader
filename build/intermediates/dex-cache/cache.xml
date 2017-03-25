@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_7737a2b7552a7dc7918529bf9676378f3ee2a1d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af530c478a7f879372510da0fa0e052df810782e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47ef0647ba42b5afa1f6897551a674ae23e9cd10">
+        <dex dex="C:\Users\Muhammad Bahaa\Desktop\xyzreader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_867b0ffa007c348a59b619df4c13f93ef961434d\classes.dex" />
+    </item>
+
+</items>
